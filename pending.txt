@@ -1,0 +1,30 @@
+Pending:-
+dev broker not running
+root access
+sap paidamount expected value.
+SAP return codes
+
+
+todo:-
+we can create record transaction flow, to insert values into database.
+rest api creation document,
+try loading the excel data to database.
+
+
+---------------------------------------------------------------------------------------------
+
+1.TDS createpayment,getaccountpayments and voidpayment(reversepayment)
+
+2.C1 APIs coding in IIB   -- Cert pending  need to check with bhaskar
+3.MySQL issue in Dev and Test  -- not received update from mambi
+4.APIc configuration               -- dont have credentials
+5.generatePaymentToken             -- parked.
+6.Load TDS data					   -- 2 tables   for subscriber clear the data and load  delete
+
+for transaction data...(no delete)just insert
+
+ 
+7.Load C1 config data and table creation   -- is tables ready?(10 items)
+
+
+8.Reverse Payment API for SAP. -- need proper input data.
